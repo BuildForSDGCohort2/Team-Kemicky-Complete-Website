@@ -1,0 +1,18 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Old+Standard+TT&display=swap');
+
+html,
+body {
+    background-color: floralwhite;
+    font-family:'Lobster', cursive;
+    font-size:10px;
+}
+.footerlinks{
+    color:white;
+    text-decoration:none !important;
+    font-weight:300;
+}
+.footerlinks:hover 
+{
+    color: aqua;
+}
